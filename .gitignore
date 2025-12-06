@@ -1,0 +1,6 @@
+node_modules/
+tenants.db
+tenants.db-journal
+.DS_Store
+*.log
+
